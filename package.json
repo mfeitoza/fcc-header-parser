@@ -11,7 +11,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "easy-reload": "^0.0.2",
+    "easy-livereload": "^1.4.3",
     "express": "^4.17.1",
     "node-dev": "^6.2.0"
   }
